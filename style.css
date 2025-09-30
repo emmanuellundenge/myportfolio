@@ -53,7 +53,7 @@ nav ul li a:hover {
 }
 
 .hero {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('photos/emmabanner.JPG');
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('emmabanner.JPG');
     background-size: cover;
     background-position: center;
     height: 400px;
@@ -201,3 +201,4 @@ footer {
         flex-direction: column;
     }
 }
+
